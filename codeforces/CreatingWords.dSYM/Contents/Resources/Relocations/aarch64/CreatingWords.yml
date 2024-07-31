@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/niloydas/Desktop/cp/codeforces/CreatingWords'
+relocations:
+  - { offsetInCU: 0xBC, offset: 0xBC, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003CF0, symSize: 0x160 }
+  - { offsetInCU: 0x50B3, offset: 0x50B3, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x16210, symBinAddr: 0x100008013, symSize: 0x0 }
+  - { offsetInCU: 0x5231, offset: 0x5231, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_CreatingWords.cpp, symObjAddr: 0x19C, symBinAddr: 0x100003E8C, symSize: 0x14 }
+  - { offsetInCU: 0x5251, offset: 0x5251, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x160, symBinAddr: 0x100003E50, symSize: 0x3C }
+  - { offsetInCU: 0x524B, offset: 0x524B, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003CF0, symSize: 0x160 }
+...

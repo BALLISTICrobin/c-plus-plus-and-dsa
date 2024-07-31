@@ -1,0 +1,32 @@
+unsuccessful
+yes
+10_Thors
+10_Thors(,[31m34_Canute[00m)
+34_Canute([31m10_Thors[00m,[31m43_Olaf[00m)
+34_Canute(10_Thors(,[31m15_Einer[00m),43_Olaf)
+34_Canute(10_Thors(,[31m15_Einer[00m),43_Olaf([31m40_Olmar[00m,))
+45 not found
+34_Canute(10_Thors(,[31m15_Einer[00m),43_Olaf([31m40_Olmar[00m,[31m53_Floki[00m))
+6
+34_Canute(10_Thors(,[31m15_Einer[00m),[31m43_Olaf[00m(40_Olmar,53_Floki(,[31m90_Thorfinn[00m)))
+34_Canute(12_Snake([31m10_Thors[00m,[31m15_Einer[00m),[31m43_Olaf[00m(40_Olmar,53_Floki(,[31m90_Thorfinn[00m)))
+34_Canute(12_Snake([31m10_Thors[00m,[31m15_Einer[00m),[31m43_Olaf[00m(40_Olmar,78_Askeladd([31m53_Floki[00m,[31m90_Thorfinn[00m)))
+40 found
+34_Canute(12_Snake([31m10_Thors[00m,[31m15_Einer[00m),[31m78_Askeladd[00m(43_Olaf(,[31m53_Floki[00m),90_Thorfinn))
+40 not found
+34_Canute(12_Snake([31m10_Thors[00m,[31m15_Einer[00m),[31m53_Floki[00m(43_Olaf,90_Thorfinn))
+7
+34_Canute(15_Einer([31m10_Thors[00m,),[31m53_Floki[00m(43_Olaf,90_Thorfinn))
+34_Canute(15_Einer([31m10_Thors[00m,),53_Floki(,[31m90_Thorfinn[00m))
+no
+56 not found
+34_Canute(15_Ymir([31m10_Thors[00m,),53_Floki(,[31m90_Thorfinn[00m))
+[31m10=>Thors[00m
+15=>Ymir
+34=>Canute
+53=>Floki
+[31m90=>Thorfinn[00m
+
+successful
+0
+90 not found
